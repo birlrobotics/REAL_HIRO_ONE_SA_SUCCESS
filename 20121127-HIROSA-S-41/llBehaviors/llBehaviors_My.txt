@@ -1,0 +1,96 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : 0.00282
+averageVal2   : 0.07359
+AVG_MAG_VAL   : 0.16170
+rmsVal1       : 0.00643
+rmsVal2       : 0.00643
+AVG_RMS_Val   : 0.78619
+amplitudeVal1 : 0.02802
+amplitudeVal2 : 0.08966
+AVG_AMP_VAL   : 0.71490
+Label 1       : a
+Label 2       : a
+t1Start       : 0.00000
+t1End         : 4.95000
+t2Start       : 4.95000
+t2End         : 9.75000
+tAvgIndex     : 4.87500
+
+Iteration     : 2
+CompLabel     : AL
+averageVal1   : 0.04640
+averageVal2   : 0.04640
+AVG_MAG_VAL   : 0.04640
+rmsVal1       : 0.06314
+rmsVal2       : 0.06314
+AVG_RMS_Val   : 0.06314
+amplitudeVal1 : 0.03360
+amplitudeVal2 : 0.03360
+AVG_AMP_VAL   : 0.03360
+Label 1       : a
+Label 2       : 
+
+t1Start       : 9.75000
+t1End         : 9.85000
+t2Start       : 9.85000
+t2End         : 10.05000
+tAvgIndex     : 9.90000
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : 0.16957
+averageVal2   : -0.14788
+AVG_MAG_VAL   : -0.07096
+rmsVal1       : 0.51740
+rmsVal2       : 0.51740
+AVG_RMS_Val   : 0.51740
+amplitudeVal1 : 0.76802
+amplitudeVal2 : 0.04543
+AVG_AMP_VAL   : 0.76802
+Label 1       : a
+Label 2       : a
+t1Start       : 10.05000
+t1End         : 15.77500
+t2Start       : 15.77500
+t2End         : 29.20000
+tAvgIndex     : 19.62500
+
+Iteration     : 4
+CompLabel     : AL
+averageVal1   : -0.13925
+averageVal2   : -0.14995
+AVG_MAG_VAL   : -0.14466
+rmsVal1       : -0.10607
+rmsVal2       : -0.11202
+AVG_RMS_Val   : -0.10607
+amplitudeVal1 : 0.06760
+amplitudeVal2 : 0.05689
+AVG_AMP_VAL   : 0.06760
+Label 1       : pc
+Label 2       : pc
+t1Start       : 29.20000
+t1End         : 30.00000
+t2Start       : 30.00000
+t2End         : 30.40000
+tAvgIndex     : 29.80000
+
+Iteration     : 5
+CompLabel     : PS
+averageVal1   : -0.16900
+averageVal2   : -0.16900
+AVG_MAG_VAL   : -0.16900
+rmsVal1       : -0.16332
+rmsVal2       : -0.16332
+AVG_RMS_Val   : -0.16332
+amplitudeVal1 : 0.01136
+amplitudeVal2 : 0.01136
+AVG_AMP_VAL   : 0.01136
+Label 1       : i
+Label 2       : i
+t1Start       : 30.40000
+t1End         : 30.44000
+t2Start       : 30.40000
+t2End         : 30.44000
+tAvgIndex     : 30.42000
+
