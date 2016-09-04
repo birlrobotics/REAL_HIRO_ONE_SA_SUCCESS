@@ -1,98 +1,19 @@
 Iteration     : 1
 CompLabel     : FX
-averageVal1   : 0.00317
-averageVal2   : 0.00317
-AVG_MAG_VAL   : 0.00317
-rmsVal1       : 0.00555
-rmsVal2       : 0.00555
-AVG_RMS_Val   : 0.00555
-amplitudeVal1 : 0.00190
-amplitudeVal2 : 0.00190
-AVG_AMP_VAL   : 0.00190
-Label 1       : k
-Label 2       : 
-
-t1Start       : 0.00000
-t1End         : 7.05000
-t2Start       : 6.75000
-t2End         : 7.05000
-tAvgIndex     : 3.52500
-
-Iteration     : 2
-CompLabel     : AL
-averageVal1   : -0.03965
-averageVal2   : -0.03710
-AVG_MAG_VAL   : -0.03521
+averageVal1   : -0.05049
+averageVal2   : -0.02317
+AVG_MAG_VAL   : -0.03683
 rmsVal1       : 0.12186
-rmsVal2       : 0.12186
-AVG_RMS_Val   : 0.12186
-amplitudeVal1 : 0.02305
-amplitudeVal2 : 0.06264
-AVG_AMP_VAL   : 0.09173
-Label 1       : pc
-Label 2       : pc
-t1Start       : 7.05000
-t1End         : 16.80000
-t2Start       : 16.80000
-t2End         : 17.92500
-tAvgIndex     : 12.48750
-
-Iteration     : 3
-CompLabel     : FX
-averageVal1   : -0.03518
-averageVal2   : -0.03518
-AVG_MAG_VAL   : -0.03518
-rmsVal1       : -0.02859
-rmsVal2       : -0.02859
-AVG_RMS_Val   : -0.02859
-amplitudeVal1 : 0.01819
-amplitudeVal2 : 0.01819
-AVG_AMP_VAL   : 0.01819
-Label 1       : k
-Label 2       : 
-
-t1Start       : 17.92500
-t1End         : 18.25000
-t2Start       : 18.12500
-t2End         : 18.25000
-tAvgIndex     : 18.08750
-
-Iteration     : 4
-CompLabel     : AL
-averageVal1   : -0.00913
-averageVal2   : -0.00913
-AVG_MAG_VAL   : -0.00913
-rmsVal1       : 0.01001
-rmsVal2       : 0.01001
-AVG_RMS_Val   : 0.01001
-amplitudeVal1 : 0.03575
-amplitudeVal2 : 0.03575
-AVG_AMP_VAL   : 0.03575
-Label 1       : a
-Label 2       : 
-
-t1Start       : 18.25000
-t1End         : 18.52500
-t2Start       : 18.52500
-t2End         : 18.77500
-tAvgIndex     : 18.51250
-
-Iteration     : 5
-CompLabel     : FX
-averageVal1   : 0.06558
-averageVal2   : 0.06558
-AVG_MAG_VAL   : 0.06558
-rmsVal1       : 0.10830
 rmsVal2       : 0.10830
-AVG_RMS_Val   : 0.10830
-amplitudeVal1 : 0.10550
-amplitudeVal2 : 0.10550
-AVG_AMP_VAL   : 0.10550
+AVG_RMS_Val   : 0.12186
+amplitudeVal1 : 0.02228
+amplitudeVal2 : 0.12455
+AVG_AMP_VAL   : 0.12455
 Label 1       : k
 Label 2       : k
-t1Start       : 18.77500
-t1End         : 21.07500
-t2Start       : 18.77500
-t2End         : 21.07500
-tAvgIndex     : 19.92500
+t1Start       : 0.00000
+t1End         : 16.62500
+t2Start       : 16.62500
+t2End         : 23.82500
+tAvgIndex     : 14.26875
 

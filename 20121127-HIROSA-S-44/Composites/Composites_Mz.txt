@@ -1,117 +1,13 @@
 Iteration     : 1
 Label         : k
-Average Val   : 0.06858
-RMS Val       : 0.17880
-Amplitude Val : 0.00258
-Label 1       : cons
-Label 2       : cons
-t1Start       : 0.00000
-t1End         : 11.90000
-t2Start       : 5.87500
-t2End         : 11.90000
-tAvgIndex     : 5.95000
-
-Iteration     : 2
-Label         : a
-Average Val   : 0.12525
-RMS Val       : 0.14613
-Amplitude Val : 0.02639
-Label 1       : spos
-Label 2       : sneg
-t1Start       : 11.90000
-t1End         : 12.40000
-t2Start       : 12.17500
-t2End         : 12.40000
-tAvgIndex     : 12.15000
-
-Iteration     : 3
-Label         : k
-Average Val   : 0.09583
-RMS Val       : 0.14214
-Amplitude Val : 0.01246
-Label 1       : cons
-Label 2       : cons
-t1Start       : 12.40000
-t1End         : 23.47500
-t2Start       : 19.75000
-t2End         : 23.47500
-tAvgIndex     : 17.93750
-
-Iteration     : 4
-Label         : a
-Average Val   : 0.19089
-RMS Val       : 0.25782
-Amplitude Val : 0.12408
-Label 1       : spos
-Label 2       : sneg
-t1Start       : 23.47500
-t1End         : 23.72500
-t2Start       : 23.72500
-t2End         : 24.17500
-tAvgIndex     : 23.82500
-
-Iteration     : 5
-Label         : k
-Average Val   : 0.15989
-RMS Val       : 0.16769
-Amplitude Val : 0.01050
-Label 1       : cons
-Label 2       : cons
-t1Start       : 24.17500
-t1End         : 24.67500
-t2Start       : 24.55000
-t2End         : 24.67500
-tAvgIndex     : 24.42500
-
-Iteration     : 6
-Label         : a
-Average Val   : 0.17043
-RMS Val       : 0.19341
-Amplitude Val : 0.05196
-Label 1       : spos
-Label 2       : sneg
-t1Start       : 24.67500
-t1End         : 24.92500
-t2Start       : 24.92500
-t2End         : 25.27500
-tAvgIndex     : 24.97500
-
-Iteration     : 7
-Label         : i
-Average Val   : 0.30359
-RMS Val       : 0.42364
-Amplitude Val : 0.19624
-Label 1       : spos
-Label 2       : spos
-t1Start       : 25.27500
-t1End         : 26.45000
-t2Start       : 26.42500
-t2End         : 26.45000
-tAvgIndex     : 25.86250
-
-Iteration     : 8
-Label         : a
-Average Val   : 0.55230
+Average Val   : 0.23802
 RMS Val       : 0.79435
-Amplitude Val : 0.44666
-Label 1       : spos
+Amplitude Val : 0.14235
+Label 1       : cons
 Label 2       : sneg
-t1Start       : 26.45000
-t1End         : 26.80000
-t2Start       : 26.80000
-t2End         : 27.27500
-tAvgIndex     : 26.86250
-
-Iteration     : 9
-Label         : k
-Average Val   : 0.24223
-RMS Val       : 0.43569
-Amplitude Val : 0.21545
-Label 1       : sneg
-Label 2       : cons
-t1Start       : 27.27500
-t1End         : 28.37500
+t1Start       : 0.00000
+t1End         : 28.65000
 t2Start       : 28.27500
-t2End         : 28.37500
-tAvgIndex     : 27.82500
+t2End         : 28.65000
+tAvgIndex     : 14.32500
 

@@ -10,8 +10,7 @@ amplitudeVal1 : 0.19761
 amplitudeVal2 : 0.19761
 AVG_AMP_VAL   : 0.19761
 Label 1       : d
-Label 2       : 
-
+Label 2       : z
 t1Start       : 0.00000
 t1End         : 0.00000
 t2Start       : 0.07500
@@ -49,8 +48,7 @@ amplitudeVal1 : 0.00077
 amplitudeVal2 : 0.00077
 AVG_AMP_VAL   : 0.00077
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 2.20000
 t1End         : 2.22500
 t2Start       : 2.22500
@@ -88,8 +86,7 @@ amplitudeVal1 : 3.08052
 amplitudeVal2 : 3.08052
 AVG_AMP_VAL   : 3.08052
 Label 1       : d
-Label 2       : 
-
+Label 2       : z
 t1Start       : 5.00000
 t1End         : 5.00000
 t2Start       : 5.02500
@@ -127,8 +124,7 @@ amplitudeVal1 : 0.15784
 amplitudeVal2 : 0.15784
 AVG_AMP_VAL   : 0.15784
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 10.22500
 t1End         : 10.32500
 t2Start       : 10.32500
@@ -156,15 +152,15 @@ tAvgIndex     : 20.43750
 
 Iteration     : 9
 CompLabel     : PS
-averageVal1   : -0.01288
-averageVal2   : -0.01288
-AVG_MAG_VAL   : -0.01288
+averageVal1   : -0.00543
+averageVal2   : -0.00543
+AVG_MAG_VAL   : -0.00543
 rmsVal1       : 0.03450
 rmsVal2       : 0.03450
 AVG_RMS_Val   : 0.03450
-amplitudeVal1 : 0.09054
-amplitudeVal2 : 0.09054
-AVG_AMP_VAL   : 0.09054
+amplitudeVal1 : 0.07986
+amplitudeVal2 : 0.07986
+AVG_AMP_VAL   : 0.07986
 Label 1       : i
 Label 2       : i
 t1Start       : 30.40000

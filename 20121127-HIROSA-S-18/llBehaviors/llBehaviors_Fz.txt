@@ -48,8 +48,7 @@ amplitudeVal1 : 0.04310
 amplitudeVal2 : 0.04310
 AVG_AMP_VAL   : 0.04310
 Label 1       : d
-Label 2       : 
-
+Label 2       : z
 t1Start       : 1.32500
 t1End         : 1.35000
 t2Start       : 1.35000
@@ -106,8 +105,7 @@ amplitudeVal1 : 0.07133
 amplitudeVal2 : 0.07133
 AVG_AMP_VAL   : 0.07133
 Label 1       : k
-Label 2       : 
-
+Label 2       : z
 t1Start       : 2.95000
 t1End         : 3.82500
 t2Start       : 3.27500
@@ -126,8 +124,7 @@ amplitudeVal1 : 0.00059
 amplitudeVal2 : 0.00059
 AVG_AMP_VAL   : 0.00059
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 3.82500
 t1End         : 3.85000
 t2Start       : 3.85000
@@ -146,8 +143,7 @@ amplitudeVal1 : 0.15229
 amplitudeVal2 : 0.15229
 AVG_AMP_VAL   : 0.15229
 Label 1       : d
-Label 2       : 
-
+Label 2       : z
 t1Start       : 3.87500
 t1End         : 3.87500
 t2Start       : 3.92500
@@ -185,8 +181,7 @@ amplitudeVal1 : 0.00719
 amplitudeVal2 : 0.00719
 AVG_AMP_VAL   : 0.00719
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 5.57500
 t1End         : 5.60000
 t2Start       : 5.60000
@@ -224,8 +219,7 @@ amplitudeVal1 : 0.94270
 amplitudeVal2 : 0.94270
 AVG_AMP_VAL   : 0.94270
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 12.30000
 t1End         : 13.24800
 t2Start       : 13.24900
@@ -263,8 +257,7 @@ amplitudeVal1 : 7.64741
 amplitudeVal2 : 7.64741
 AVG_AMP_VAL   : 7.64741
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 14.75000
 t1End         : 15.57500
 t2Start       : 14.92500
@@ -302,8 +295,7 @@ amplitudeVal1 : 32.70013
 amplitudeVal2 : 32.70013
 AVG_AMP_VAL   : 32.70013
 Label 1       : c
-Label 2       : 
-
+Label 2       : z
 t1Start       : 16.35000
 t1End         : 16.60000
 t2Start       : 16.60000
@@ -313,8 +305,8 @@ tAvgIndex     : 16.55000
 Iteration     : 17
 CompLabel     : FX
 averageVal1   : 30.32863
-averageVal2   : 26.15684
-AVG_MAG_VAL   : 29.20860
+averageVal2   : 26.15908
+AVG_MAG_VAL   : 29.20916
 rmsVal1       : 36.89777
 rmsVal2       : 33.42106
 AVG_RMS_Val   : 36.89777

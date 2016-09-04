@@ -67,8 +67,7 @@ amplitudeVal1 : 0.04782
 amplitudeVal2 : 0.04782
 AVG_AMP_VAL   : 0.04782
 Label 1       : d
-Label 2       : 
-
+Label 2       : z
 t1Start       : 4.05000
 t1End         : 4.07500
 t2Start       : 4.07500
@@ -144,8 +143,7 @@ amplitudeVal1 : 12.76699
 amplitudeVal2 : 12.76699
 AVG_AMP_VAL   : 12.76699
 Label 1       : i
-Label 2       : 
-
+Label 2       : z
 t1Start       : 6.92500
 t1End         : 7.37500
 t2Start       : 6.95000
@@ -202,8 +200,7 @@ amplitudeVal1 : 7.84723
 amplitudeVal2 : 7.84723
 AVG_AMP_VAL   : 7.84723
 Label 1       : a
-Label 2       : 
-
+Label 2       : z
 t1Start       : 15.00000
 t1End         : 15.64800
 t2Start       : 15.64900
@@ -232,8 +229,8 @@ tAvgIndex     : 16.61250
 Iteration     : 13
 CompLabel     : FX
 averageVal1   : 30.98629
-averageVal2   : 28.67243
-AVG_MAG_VAL   : 29.94186
+averageVal2   : 28.67732
+AVG_MAG_VAL   : 29.94308
 rmsVal1       : 34.13482
 rmsVal2       : 33.20922
 AVG_RMS_Val   : 34.13482
