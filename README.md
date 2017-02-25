@@ -1,38 +1,22 @@
-Data from snap assembly work with the HIRO Robot. Location: AIST-Tsukuba, Japan. Dates: 2012-2014.
+Data from snap assembly work with the HIRO Robot. 
+Dates: 2012-2016.
+
+Trials:     46
+Arm:        Right arm. 
+Experiment: HIRO's right arm holds a male camera part with 4 snaps. Female part is rigidly fixed to the table in front of robot. Hiro does a guarded approach to the female part until both parts make contact at an angle (angle of approach is 22.5 degrees about the y-axis (pitch) to the horizontal). A rotational motion does a near-full alignment until the back-side snaps make contact. Then an insertion takes place, along with a large snap or impact. Then, parts remain mated till the end of the xperiment.
 
 Each folder contains the following files and data:
-(Due to having w different programmers here, sometimes they created data files that record the same thing at different cycle times. The data is redundant and one can select which data set to use).
-
-i. Angles.dat (7DoF Actual Joint Angles)
+i. R_Angles.dat (7DoF Actual Joint Angles)
 Format: time-stamp theta1 ...  theta7
 
-- rstate.dat (7DoF Actual Joint Angles -- yaw computed differently than in Angles.dat)
-Format: time-stamp theta1 ...  theta7
-Note: code changed by another... have not looked @ difference.
-
-ii. astate.dat (7DoF Desired Joint Angles)
-Format: time-stamp theta1 ...  theta7
-
-iii. CartPos.dat (xyzrpy end-effect Cartesian positions)
+ii. R_CartPos.dat (xyzrpy end-effect Cartesian positions)
 Format: time-stap x y z r p y
 
-iv. State.dat (Time stamps of state transitions)
+iii. R_Torques.dat (Actual Wrench data wrt end-effector)
+Format: time Fx Fy Fz Mx My Mz
+
+iv. R_State.dat (Time stamps of state transitions)
 Format: time (secs)
-
-v. Torques.dat (Actual Wrench data wrt end-effector)
-Format: time Fx Fy Fz Mx My Mz
-
-- localforce.dat (Wrench data wrt end-effector)
-Format: time Fx Fy Fz Mx My Mz
-Note: localforce and Torques.dat different. Code changed another... have not looked @ diff.
 
 v. worldforce.dat (Actual Wrench data wrt world)
 Format: time Fx Fy Fz Mx My Mz
-
-- Cur.dat (Wrench data wrt world)
-Format: time Fx Fy Fz Mx My Mz
-Note: localforce and Torques.dat different. Code changed another... have not looked @ diff.
-
-vi Des.dat (Desired Torques wrt world)
-Format: time Fx Fy Fz Mx My Mz
-
